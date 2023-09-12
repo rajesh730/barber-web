@@ -22,7 +22,7 @@ Barber Web is a simple website for barber shop. It gives information about the h
 - Clone repo :
 
 ```bash
- git clone https://github.com/your-username/barber-web.git
+ git clone https://github.com/rajesh730/barber-web.git
 ```
 
 - **Run :** `index.html`
