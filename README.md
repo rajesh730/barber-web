@@ -5,7 +5,7 @@ Barber Web is a simple website for barber shop. It gives information about the h
 
 ## Demo
 
-- **Live Demo**: [Barber-web](https://github.com/rajesh730/barber-web)
+- **Live Demo**: [Barber-web](https://rajesh730.github.io/barber-web/)
 
 
 ## Technologies Used
